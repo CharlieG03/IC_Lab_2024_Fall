@@ -1,5 +1,5 @@
 ## Review
-第一次Lab基本上就是全靠肝跟運氣，因為是純combinational設計，所以在確保硬體使用效率最好的前提下，要繼續縮面積就要花大量時間嘗試。
+第一次Lab基本上就很大一部份要靠肝跟運氣，因為是純combinational設計，所以在確保硬體使用效率最好的前提下，要繼續縮面積就要花大量時間嘗試。
 Sorting Network的部分是參考[此網站](https://bertdobbelaere.github.io/sorting_networks.html)，後面Lab也有用到，很好用建議先收藏。
 
 ## Suggestion
