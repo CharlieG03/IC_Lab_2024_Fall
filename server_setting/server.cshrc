@@ -1,0 +1,56 @@
+alias tarx 'tar -xvf'
+alias c 'clear'
+
+alias refresh 'source ~/.cshrc'
+alias h 'cd ~'
+
+alias l1 'cd ~/Lab01*/01*'
+alias l2 'cd ~/Lab02*/01*'   
+alias l3 'cd ~/Lab03*/01*'
+alias l4 'cd ~/Lab04*/01*'
+alias l5 'cd ~/Lab05*/Exercise/01*'
+alias l6 'cd ~/Lab06*/Exercise/01*'
+alias l6i 'cd ~/Lab06*/Exercise_SoftIP/01*'
+alias l7 'cd ~/Lab07*/Exercise/01*'
+alias l8 'cd ~/Lab08*/EXERCISE/01*'
+alias l8w 'cd ~/Lab08*/EXERCISE_wocg/01*'
+alias l9 'cd ~/Lab09*/Exercise/01*'
+alias l10 'cd ~/Lab10*/01*'
+alias l11 'cd ~/Lab11*/01*'
+alias l12 'cd ~/Lab12*/Exercise/05*'
+alias mid 'cd ~/Midterm*/Exercise/01*'
+alias fin 'cd ~/Final*/01*'
+
+alias .0 'cd ../00*'
+alias .1 'cd ../01*'
+alias .2 'cd ../02*'
+alias .3 'cd ../03*'
+alias .4 'cd ../04*'
+alias .5 'cd ../05*'
+alias .6 'cd ../06*'
+alias .9 'cd ../09*'
+alias .10 'cd ../10*'
+
+
+alias .99 'cd ../09*; ./00*; ./01*'
+alias .91 './02_check 1st_demo'
+alias .92 './02_check 2nd_demo'
+
+alias .11 'cd ../01* ; ./09*; ./01*;'
+alias .22 'cd ../02* ; ./09*; ./01*;'
+alias .33 'cd ../03* ; ./09*; ./01*;'
+alias .cc './08*'
+alias .op 'source ~/.vim/c_check.csh'
+alias .mm 'cd ../05*/LEF ; source ~/.vim/mod_mem.csh'
+alias clk 'source ~/.vim/alt_clk.csh'
+alias .j 'cd ../../JG*'
+alias .sdc 'source ~/.vim/sdc_append.csh'
+alias inn 'innovus'
+
+alias yes 'source /RAID2/cshrc/main.cshrc; source ~/.vim/doge.csh; source ~/.vim/lohan.csh; source ~/.vim/prompt.csh'
+alias vd 'verdi&'
+alias nw './05_nWave &'
+
+limit cputime 72h
+limit filesize 25G
+alias largest_file 'du -sh ./* | sort -rh | head -10'
