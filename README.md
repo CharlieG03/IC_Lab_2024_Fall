@@ -16,3 +16,7 @@ This is a record of every lab, project, and the online test in IC Lab (Autumn 20
 | Midterm Project | Final Project |
 | :--------: | :--------: |
 | 63 / 141 | 7 / 134 |
+
+---
+## Server File
+In addition to Verilog code, some of the setting files are also placed in this repo, such as .cshrc. See [this page]().
