@@ -19,4 +19,4 @@ This is a record of every lab, project, and the online test in IC Lab (Autumn 20
 
 ---
 ## Server File
-In addition to Verilog code, some of the setting files are also placed in this repo, such as .cshrc and .csh files. See [server_setting](server_setting).
+In addition to Verilog code, some of the setting files are also placed in this repo, such as .cshrc and .csh files. Some of the alias scripts really saved me a lot of time from repeatedly typing in same commands to the terminal, so I highly reccommand you to try them if you know how to use. See [server_setting](server_setting).
