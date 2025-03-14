@@ -9,4 +9,4 @@ SRAM的一個word我們一開始是覺得越長越好，因為是讀取圖片，
 
 我們這次的[Lab11](https://github.com/CharlieG03/IC_Lab_2024_Fall/tree/main/Lab11)正好就是用這個lab去A，所以一個word太長又會面臨SRAM的layout變成長方形，導致APR的時候util要開很低才放得下，最後chip area會比gate area大很多，有點這個lab縮面積是白忙一場的感覺。
 
-雖然我沒有寫dual-port的版本，但我朋友後來只開一個dual-port，lab5跟lab12排名都比我前面的多，所以應該是要用dual-port才是好寫又好A。
+雖然我沒有寫dual-port的版本，但我朋友後來只開一個dual-port，這個lab跟lab11排名都比我前面的多，所以應該是要用dual-port才是好寫又好A。
